@@ -1,0 +1,7 @@
+remote_theme: pages-themes/primer@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Ivan's World 
+description: Personal blog where I share a small slice of my brain to the world.
+
